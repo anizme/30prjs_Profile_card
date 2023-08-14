@@ -1,2 +1,2 @@
-Day1
-30dayschanllenge with HTML CSS JS
+Day 2
+30dayschanllegeHTML_CSS_JS
